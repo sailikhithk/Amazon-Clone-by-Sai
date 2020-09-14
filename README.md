@@ -7,6 +7,7 @@ This ecommerce website is built on the top of the React.js, Express.js and Strip
 3. Sign in
 4. Credit card validation
 5. Payment Gateway
+6. Hosted on Firebase 
 
 ## Upcoming Features
 1. Add to Cart Alerts
