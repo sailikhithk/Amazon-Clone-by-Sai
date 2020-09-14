@@ -1,6 +1,8 @@
 # Amazon-Clone-by-Sai
 This ecommerce website is built on the top of the React.js, Express.js and Stripe payment gateway API. Has credit card validator functions implemented with live demo.
 
+** Note: ** This App is only for portfolio showcase and educative purposes. Not to be used for commercial purposes.
+
 ## Features
 1. Add products to Cart
 2. Sign Up
@@ -18,3 +20,9 @@ This ecommerce website is built on the top of the React.js, Express.js and Strip
 
 
 # <a href="https://mini-atoz-clone-sai-likhith.web.app/"> Live Demo</a>
+
+## Commands to be used
+
+```npm start ```
+
+Open in browser : ```http://localhost:3000/```
