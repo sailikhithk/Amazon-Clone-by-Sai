@@ -13,3 +13,7 @@ This ecommerce website is built on the top of the React.js, Express.js and Strip
 2. Theme changes
 3. Quantity of products available
 4. Ordered items showcase for the user
+5. Upcoming deals with coutdowns
+
+
+# <a href="https://mini-atoz-clone-sai-likhith.web.app/"> Live Demo</a>
