@@ -1,4 +1,6 @@
 # Boought!!! an Amazon-Clone-by-Sai
+(August 2020 - Ongoing) 
+
 This ecommerce website is built on the top of the React.js, Express.js and Stripe payment gateway API. Has credit card validator functions implemented with live demo.
 
 **Note:** This App is only for portfolio showcase and educative purposes. Not to be used for commercial purposes.
