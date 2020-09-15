@@ -22,7 +22,7 @@ This ecommerce website is built on the top of the React.js, Express.js and Strip
 
 # <a href="https://mini-atoz-clone-sai-likhith.web.app/"> Live Demo</a>
 
-## Commands to be used to run the App loccally on your system
+## Commands to be used to run the App locally on your system
 
 1. **Fork** this repository
 2. **Download** the code
