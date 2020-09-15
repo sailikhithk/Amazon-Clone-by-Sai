@@ -22,8 +22,12 @@ This ecommerce website is built on the top of the React.js, Express.js and Strip
 
 # <a href="https://mini-atoz-clone-sai-likhith.web.app/"> Live Demo</a>
 
-## Commands to be used
+## Commands to be used to run the App loccally on your system
 
-```npm start ```
+1. **Fork** this repository
+2. **Download** the code
+3. Use any development tools like Eclipse
+4. Open terminal and type ```npm start```
+5. Open your browser and type ```http://localhost:3000/```
 
-Open in browser : ```http://localhost:3000/```
+You can now view the local version of the app in your browser
