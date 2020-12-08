@@ -9,13 +9,13 @@ This ecommerce website is built on the top of the React.js, Express.js and Strip
 ##### 1. Sign Up
 ![Sign Up](/src/images/signin.png)
 ##### 2. Sign in
-![Sign Up](/src/images/page.png)
+![Sign in](/src/images/page.png)
 ##### 3. Add products to Cart
-![Sign Up](/src/images/add to cart.png)
+![Add products to Cart](/src/images/add to cart.png)
 ##### 4. Checkout & Credit card validation
-![Sign Up](/src/images/checkout.png)
+![Checkout](/src/images/checkout.png)
 ##### 5. Stripe Payment Gateway
-![Sign Up](/src/images/dummy.png)
+![Payment](/src/images/dummy.png)
 ##### 6. Hosted on Firebase 
 
 
