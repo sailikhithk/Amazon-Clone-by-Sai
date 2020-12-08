@@ -6,12 +6,18 @@ This ecommerce website is built on the top of the React.js, Express.js and Strip
 **Note:** This App is only for portfolio showcase and educative purposes. Not to be used for commercial purposes.
 
 ## Features
-1. Add products to Cart
-2. Sign Up
-3. Sign in
-4. Credit card validation
-5. Payment Gateway
-6. Hosted on Firebase 
+1. Sign Up
+![Sign Up](/src/images/signin.png)
+2. Sign in
+![Sign Up](/src/images/page.png)
+3. Add products to Cart
+![Sign Up](/src/images/add to cart.png)
+4. Checkout & Credit card validation
+![Sign Up](/src/images/checkout.png)
+4. Stripe Payment Gateway
+![Sign Up](/src/images/dummy.png)
+5. Hosted on Firebase 
+
 
 ## Upcoming Features
 1. Add to Cart Alerts
