@@ -16,7 +16,7 @@
   "dependencies": {
     "@stripe/react-stripe-js": "^1.1.2",
     "@stripe/stripe-js": "^1.9.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase-admin": "^8.10.0",
     "firebase-functions": "^3.6.1",
     "stripe": "^8.96.0"
